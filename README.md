@@ -7,7 +7,7 @@ Comparing the following models:
 KNN,
 SVM,
 Naïve Bayes,
-Decision Tree
+Decision Tree,
 Random Forest,
 Extreme Gradient Boosting. 
 
