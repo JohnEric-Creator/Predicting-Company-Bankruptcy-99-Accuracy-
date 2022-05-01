@@ -4,12 +4,12 @@
 
 Comparing the following models:
 
-KNN
-SVM
-Naïve Bayes
+KNN,
+SVM,
+Naïve Bayes,
 Decision Tree
-Random Forest
-Extreme Gradient Boosting 
+Random Forest,
+Extreme Gradient Boosting. 
 
 To discern which will produce the best results on an unwieldly dataset with almost 100 attributes.
 
